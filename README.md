@@ -1,26 +1,43 @@
-## /////////////////////// — XCL : : Web Application Platform
 
-**Module Name**  : Xpress
 
-**Module Version**  : 2.3.x  
 
-**Description** : This module allows you to run and manage multiple WordPress blogs on your XCL WAP.
 
-**Author** : Toemon  
 
-**Maintainer** : Gigamaster
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://github.com/xoopscube/xcl)
+![License GPL](https://img.shields.io/badge/License-GPL-green)
+![License GPL](https://img.shields.io/badge/X--Update%20Store-Pending-red)
 
----
-  
+## ///// — Xpress : multiple WordPress blogs
+
+    NOTE : Stale branch version = 5.7.5  
+    Wordpress later versions have a Fatal error: Maximum function nesting level of ‘256’ reached  
+    and users on shared hosting cannot change the setting xdebug.max_nesting_level to a higher value to fix it.  
+    Disable XDebug or find how to get out of the loop then.
+
+
+MODULE | Xpress
+------------ | -------------
+Description |  XCL installation and management of multiple WordPress blogs.
+Render Engine | Smarty v2 and XCube Layout
+Version | 5.7.5
+Author | Toemon 
+Author | Update by Nuno Luciano (aka Gigamaster) XCL PHP7
+Copyright | 2005-2022 Authors
+License | GPL
+
 
 ##### :computer: The Minimum Requirements
 
 
-          Apache, Nginx, etc.
-          PHP 7.2.x
-          MySQL 5.6, MariaDB
-          InnoDB utf8 / utf8mb4
-          XCL 2.3.x
+
+          Apache, Nginx, etc. PHP 7.2.x
+          MySQL 5.6, MariaDB  InnoDB utf8 / utf8mb4
+          XCL version 2.3.+
+
+
+
+-----
+
           
           
 Xpress
