@@ -1,13 +1,13 @@
-
-
-
-
-
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/2.0.0/active.svg)](https://github.com/xoopscube/xcl)
 ![License GPL](https://img.shields.io/badge/License-GPL-green)
 ![License GPL](https://img.shields.io/badge/X--Update%20Store-Pending-red)
 
 ## ///// — Xpress : multiple WordPress blogs
+
+This repository is currently only used for issue tracking for 
+
+- Xpress
+- XCpress
 
     NOTE : Stale branch version = 5.7.5  
     Wordpress later versions have a Fatal error: Maximum function nesting level of ‘256’ reached  
